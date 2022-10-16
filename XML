@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Genre index="3">Genre</Genre>
+    <Language index="4">Language</Language>
+    <Series index="5">Series</Series>
+    <Source index="2">Source</Source>
+    <Title index="1">Title</Title>
+  </columns>
+  <records>
+    <record index="1">
+      <Genre>Self help book </Genre>
+      <Language>English</Language>
+      <Series>Leil Lowndes</Series>
+      <Source>Brandon Sanderson, Robert Jordan</Source>
+      <Title>How to Talk to Anyone 92 Little Tricks for Big Success in Relationships</Title>
+    </record>
+    <record index="2">
+      <Genre>Fantasy </Genre>
+      <Language>English</Language>
+      <Series>Mistborn Saga</Series>
+      <Source>J.K. Rowling </Source>
+      <Title>Harry Potter and the Sorcerer's Stone </Title>
+    </record>
+    <record index="3">
+      <Genre>Fantasy </Genre>
+      <Language>English </Language>
+      <Series>The First Law</Series>
+      <Source>David R. Klein</Source>
+      <Title>TOrganic Chemistry: Wiley; 4th edition</Title>
+    </record>
+  </records>
+</data>
